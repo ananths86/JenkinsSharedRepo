@@ -1,1 +1,6 @@
-println "Hello !!!"
+#!/usr/bin/env groovy
+
+
+def call() {
+	echo "Hello !!!"
+}
